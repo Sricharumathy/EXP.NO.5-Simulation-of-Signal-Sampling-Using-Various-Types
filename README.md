@@ -1,9 +1,4 @@
 # EXP.NO.5-Simulation-of-Signal-Sampling-Using-Various-Types
-Simulation of Signal Sampling Using Various Types such as</br>
-    i) Ideal Sampling</br>
-    ii) Natural Sampling</br>
-    iii) Flat Top Sampling</br>
-
 # AIM
 Simulation of Signal Sampling Using Various Types such as</br>
     i) Ideal Sampling</br>
