@@ -8,11 +8,11 @@ Simulation of Signal Sampling Using Various Types such as</br>
 Google Colab [Python]
 
 # ALGORITHMS
-1.Generate a sine wave signal
-2.Create impulse train for ideal sampling
-3.Create rectangular pulse train for natural and flat-top sampling
-4.Multiply the signal with sampling pulses
-5.Plot original and sampled signals
+1.Generate a sine wave signal</br>
+2.Create impulse train for ideal sampling</br>
+3.Create rectangular pulse train for natural and flat-top sampling</br>
+4.Multiply the signal with sampling pulses</br>
+5.Plot original and sampled signals</br>
 
 # PROGRAM
 ```
