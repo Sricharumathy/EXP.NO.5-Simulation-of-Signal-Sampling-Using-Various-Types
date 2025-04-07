@@ -4,16 +4,17 @@ Simulation of Signal Sampling Using Various Types such as</br>
     i) Ideal Sampling</br>
     ii) Natural Sampling</br>
     iii) Flat Top Sampling</br>
+    </br>
 # SOFTWARE REQUIRED
 Google Colab [Python]
-
+</br>
 # ALGORITHMS
 1.Generate a sine wave signal</br>
 2.Create impulse train for ideal sampling</br>
 3.Create rectangular pulse train for natural and flat-top sampling</br>
 4.Multiply the signal with sampling pulses</br>
 5.Plot original and sampled signals</br>
-
+</br>
 # PROGRAM
 ```
 import numpy as np
@@ -92,10 +93,10 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
-
+</br>
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/a94ad56d-702b-4e93-815a-b4b1a7cf27fa)
-
+</br>
  
 # RESULT / CONCLUSIONS
 To simulate and visualize signal sampling using three techniques: Ideal Sampling, Natural Sampling, and Flat-Top Sampling, and compare the sampled output for a given analog signal (sine wave) was verified successfully.
